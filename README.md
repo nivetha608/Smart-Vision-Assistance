@@ -102,10 +102,6 @@ Libraries Used
 - Experimental Results
 
 
-College of Engineering Guindy
-
-Anna University
-
 ---
 
 ### If you found this project useful, consider giving it a ⭐ on GitHub.
